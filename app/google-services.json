@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14509313394",
+    "firebase_url": "https://buoi10-firebasedatabase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buoi10-firebasedatabase",
+    "storage_bucket": "buoi10-firebasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14509313394:android:999b9ec980cc36d595a1eb",
+        "android_client_info": {
+          "package_name": "com.example.buoi10_firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14509313394-dcod7hv3cov86diaaj53m2hhoiolktos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1TJO7RnRZrm-_vVXUr281ewa_B9XDqOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14509313394-dcod7hv3cov86diaaj53m2hhoiolktos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
